@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 100px; box-sizing: border-box;
+}
+
+h1{font-size: 24px; color: rebeccapurple}
+h2{font-size: 20px; color: yellow}
+h3{font-size: 18px; color: skyblue}
+ul{list-style: none; background: orange; padding: 5px; box-sizing: border-box;}

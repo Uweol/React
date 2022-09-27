@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+h1{text-align: center;}
+.movie{display: flex; border: 1px solid #ddd; padding: 7px; width: 100%; justify-content: space-between; align-items: center; margin-bottom: 10px; box-sizing: border-box;}
+.movie .movie-title{font-weight: bold;}
+.movie .movie-year{font-size: .9rem; color: #00f; padding-left: 10px;}
+input{width: 100%; display: block; padding: 7px; box-sizing: border-box; margin-bottom: 10px;}
+button{width: 100%; display: block; padding: 7px; box-sizing: border-box; margin-bottom: 10px; background: paleturquoise; color: blue; border: none;} 
+a{text-decoration: none; color: #222;} 

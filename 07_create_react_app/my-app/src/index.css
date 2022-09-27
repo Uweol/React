@@ -1,0 +1,8 @@
+.App h1{text-align: center;}
+.movie{display: flex; justify-content: space-between; border: 1px solid #ddd; margin-bottom: 10px; padding: 7px; align-items: center;}
+.movie .movie-title{}
+.movie .movie-year{font-size: .8rem; color: red; padding-left: 10px;}
+.App form{margin-bottom: 20px;}
+.movie div button{background: skyblue; border: none; color: #fff; padding: 7px}
+.App form>.input{width: 100%; display: block; box-sizing: border-box; margin-bottom: 5px; padding: 7px; border: 1px solid #ddd;}
+.App form>.button{width: 100%; display: block; background: powderblue; color: #fff; box-sizing: border-box; padding: 7px;}

@@ -1,0 +1,8 @@
+.App {
+  text-align: center; padding: 50px; box-sizing: border-box;
+}
+
+.App button{display: block; width: 100%; background: palevioletred; border: none; padding: 7px; margin-bottom: 30px;}
+.App .cnt{background: pink; padding: 7px;}
+.App span{display: block; font-size: 24px; padding: 30px auto;}
+.App input{width: 100%; padding: 7px; box-sizing: border-box;}
